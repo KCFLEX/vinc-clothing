@@ -23,9 +23,7 @@ const Navigation = () => {
           <Link className="nav-link" to="/shop">
             SHOP
           </Link>
-          <Link className="nav-link" to="https://github.com/KCFLEX/vinc-clothing/tree/main/public">
-          github 
-          </Link>
+         
           
           {
             currentUser ? (
